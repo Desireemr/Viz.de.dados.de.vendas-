@@ -1,16 +1,3 @@
-data-analysis-project/
-│
-├── README.md
-├── requirements.txt
-├── data/
-│   └── sales_data.csv
-├── notebooks/
-│   └── analysis.ipynb
-├── scripts/
-│   ├── data_cleaning.py
-│   └── data_visualization.py
-└── images/
-
 # Projeto de Análise de Dados em Python
 
 Este projeto foi desenvolvido com a finalidade de **praticar as competências adquiridas na especialização em Data Science & Analytics**, aplicando técnicas de análise exploratória de dados, limpeza de dados e visualização utilizando Python.
@@ -26,7 +13,7 @@ O objetivo deste projeto é analisar um conjunto de dados fictício de vendas de
 
 ## Tecnologias e bibliotecas utilizadas
 
-- Python 3.x
+- Python 
 - Pandas
 - NumPy
 - Matplotlib
